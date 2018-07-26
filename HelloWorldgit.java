@@ -6,7 +6,7 @@ Class HelloWorld
 
 
 	{
-		System.out.println("Todays date");
+		System.out.println("Todays date"+new Date());
 
 		System.out.println("hey..!!!!!");
 	}
@@ -18,7 +18,7 @@ public static void main(String Args[])
 {
 
 
-	System.out.println("HEllo World....... Welocome to Git!!!!");
+	System.out.println("HEllo World.!!!***** Welocome to Git!!!!");
 <<<<<<< HEAD
     
 	 
