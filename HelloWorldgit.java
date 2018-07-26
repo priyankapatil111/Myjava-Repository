@@ -1,9 +1,13 @@
 Class HelloWorld
 {
 
-void diplay(){
-System.out.println("Todays date");
-}
+	void diplay()
+	{
+		System.out.println("Todays date");
+
+		Sytem.out.println("hey..!!!!!")
+	}
+
 public static void main(String Args[])
    {
 
